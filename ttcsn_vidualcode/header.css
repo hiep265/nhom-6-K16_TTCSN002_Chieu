@@ -1,3 +1,9 @@
+
+*{
+    font-family: "Montserrat",sans-serif;
+    padding: 0;
+    margin: 0;
+}
 .a1{
     background-color:#27678f;
     width: 100%;
@@ -14,3 +20,24 @@
     width: 200px;
     height: 30px;
     }
+
+/* menu */
+    .menu{
+        margin-left: 170px;
+    }
+    .container>ul{
+        display: flex;
+        /* margin-left:100 ; */
+        /* justify-content: center; */
+    }
+
+    .container>ul>li{
+       list-style: none;
+        
+    }
+    .container>ul>li a{
+        color: black;
+        text-decoration: none;
+        padding: 18px 20px;
+    }
+/* menu */
