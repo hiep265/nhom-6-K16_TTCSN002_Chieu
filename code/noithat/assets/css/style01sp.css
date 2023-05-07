@@ -5,3 +5,39 @@
 .content-sp img{
     width: 100%;
 }
+/* the san pham */
+
+.khungtong>div>a{
+    width: 100%;
+}
+
+.noidung{
+
+    background-color: rgb(194, 189, 189);
+    padding: 16px;
+}
+.anh{
+    width: 100%;
+    background-size: cover;
+}
+.anh:hover{
+    opacity: 0.6;
+}
+.khunggia{
+    display: flex;
+    justify-content: center;
+    
+}
+.khunggia p{
+    margin: 0;
+}
+.lienhe{
+    padding: 4px 8px;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+}
+.gia{
+    padding: 4px 8px;
+}
+/* the san pham */
