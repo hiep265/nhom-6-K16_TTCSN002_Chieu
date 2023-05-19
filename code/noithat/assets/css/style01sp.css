@@ -41,3 +41,21 @@
     padding: 4px 8px;
 }
 /* the san pham */
+
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+}
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.carousel {
+    width: 100%;
+    margin: 0 10px;
+}
+.a{
+    color: rgb(86,34 ,34 );
+    font-size:large;
+}
