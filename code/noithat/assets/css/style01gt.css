@@ -34,3 +34,44 @@
 .content-pr img{
     margin: 32px 0;
 }
+.footer{
+    background-color: rgb(39, 37, 37);
+}
+.footer1{
+    display: flex;
+    padding: 0px 100px;
+}
+.f1{
+    padding: 0px 30px 0px 0px;
+    width: 450px;
+    line-height: 25px;
+}
+.f2, .f3, .f4{
+    padding: 0px 20px 0px 0px;
+    line-height: 30px;
+    width: 280px;
+}
+.a2, .a3, .a4, a{
+    list-style: none;
+    text-decoration: none;
+    padding: 0px 10px 0px 0px;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+li a:hover{
+    color: rgb(216, 13, 13);
+    text-decoration: none;
+}
+
+.c1{
+    text-align: center;
+    color: rgb(159, 159, 160);
+}
+.cuoi{
+    text-align: center;
+    background-color: rgb(86, 86, 86);
+    color: white;
+    line-height: 60px;
+}
