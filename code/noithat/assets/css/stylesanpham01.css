@@ -1,9 +1,11 @@
 
 .top{
+
     display: flex;
     border: 1px solid black;
     height: 450px;
     width: 100%;
+    /* margin-top: 20%; */
 }
 .topleft
 {
