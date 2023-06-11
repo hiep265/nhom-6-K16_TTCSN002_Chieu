@@ -50,11 +50,13 @@
     text-decoration: none;
     padding: 0px 10px 0px 0px;
 }
-a{
+li a{
     color: white;
+    text-decoration: none;
 }
-a:hover{
+li a:hover{
     color: rgb(216, 13, 13);
+    text-decoration: none;
 }
 
 .c1{
