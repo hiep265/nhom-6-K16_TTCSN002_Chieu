@@ -41,7 +41,6 @@
     padding: 4px 8px;
 }
 /* the san pham */
-<<<<<<< HEAD
 
 .carousel-item img {
     width: 100%;
@@ -62,7 +61,6 @@
     margin: 0;
 
 }
-=======
 .footer{
     background-color: rgb(39, 37, 37);
 }
@@ -87,9 +85,10 @@
 }
 li a{
     color: white;
+    text-decoration: none;
 }
 li a:hover{
-    color: rgb(198, 59, 16);
+    color: rgb(216, 13, 13);
     text-decoration: none;
 }
 
@@ -103,4 +102,4 @@ li a:hover{
     color: white;
     line-height: 60px;
 }
->>>>>>> ec87c580850e961f337c69346b8027c315972d53
+
